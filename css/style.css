@@ -182,13 +182,6 @@ a {
     backface-visibility: hidden;
 }
 
-/* for desktop */
-@media only screen and (min-width: 1000px) {
-    body {
-
-    }
-}
-
 /* for mobile phone */
 @media only screen and (max-width: 768px) {
     .header {
